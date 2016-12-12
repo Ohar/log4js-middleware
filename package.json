@@ -1,0 +1,27 @@
+{
+  "name": "log4js-middleware",
+  "version": "0.0.1",
+  "description": "Middleware library for log4js",
+  "main": "log4js-middleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ohar/log4js-middleware.git"
+  },
+  "keywords": [
+    "log4js",
+    "middleware",
+    "logger"
+  ],
+  "author": "Pavel lysenko aka Ohar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ohar/log4js-middleware/issues"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "homepage": "https://github.com/Ohar/log4js-middleware#readme"
+}
