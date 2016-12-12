@@ -10,6 +10,8 @@ const successLogger = (logger, ...params) => data => {
   logParams.forEach(param => doneText += ', %s')
 
   logger.trace(doneText, ...logParams)
+
+  return data
 }
 
 module.exports = successLogger
