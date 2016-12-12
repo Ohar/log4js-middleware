@@ -1,6 +1,6 @@
 {
   "name": "log4js-middleware",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Middleware library for log4js",
   "main": "log4js-middleware.js",
   "scripts": {
